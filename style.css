@@ -1,0 +1,13 @@
+.li-item {
+    list-style: none;
+    color: blue;
+}
+
+#ul-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgblock{
+    height: 130px;
+}
